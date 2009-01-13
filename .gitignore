@@ -1,0 +1,6 @@
+config/database.yml
+coverage/*
+db/*.sqlite3
+doc/*
+log/*
+tmp/*
